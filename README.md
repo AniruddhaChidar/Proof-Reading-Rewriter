@@ -1,1 +1,2 @@
-# Proof-Reading-Rewriter
+# Proofreading-Rewriter
+Binary Brothers SSL Project
